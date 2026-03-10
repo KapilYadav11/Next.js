@@ -17,7 +17,7 @@ export default function Home() {
           className="text-sky-300 font-extralight px-6 py-2.5 text-sm font-bold text-white bg-indigo-600 rounded-lg 
                hover:bg-indigo-700 hover:shadow-lg hover:shadow-indigo-200 
                active:scale-95 transition-all duration-200 ease-in-out"
-          href={"/sign up"}
+          href={"/signup"}
         >
           Sign up
         </Link>
