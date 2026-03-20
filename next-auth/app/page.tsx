@@ -1,9 +1,8 @@
 
-
 export default function Home() {
   return (
     <div>
-      hi there
+      next auth
     </div>
   );
 }
